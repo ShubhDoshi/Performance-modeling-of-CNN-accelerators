@@ -62,6 +62,8 @@ As a result, maximal CPU use occurs in CNN when tiling is used.
 The execution time for CNN and CNN with unrolling is less than that of CNN with tiling and CNN with tiling+unrolling, as seen in the table above.
 The loops are unrolled in the unrolling approach to reduce the time necessary for convolution loop computation.
 As a result of using unrolling, the execution time was lowered.
+![image](https://user-images.githubusercontent.com/70401205/202759094-8610a8fa-b2f0-4b68-ae94-a0cbe584999c.png)
+
 
 
 
