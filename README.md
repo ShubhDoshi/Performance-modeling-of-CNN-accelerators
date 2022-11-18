@@ -45,7 +45,7 @@ CNN with (Unrolling+Tiling)  | 94.2  | 153.935
 ![CPU usage CNN](https://user-images.githubusercontent.com/75046231/202722381-4b9bbbc9-7910-4510-bf06-ecbfb7daa857.png)
 
 ### CPU usage CNN with tiling:
-![Unrolling + Tiling](https://user-images.githubusercontent.com/75046231/202720339-40b7d00f-c204-4922-b143-7de949ef74f7.png)
+![CPU usage CNN with tiling](https://user-images.githubusercontent.com/75046231/202722371-94d4298d-e693-44df-971f-e0da074e52fe.png)
 
 ### CPU usage CNN with unrolling:
 ![CPU usage CNN with unrolling](https://user-images.githubusercontent.com/75046231/202722376-74194a04-0148-4f88-97d4-1af9cdcfe786.png)
